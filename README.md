@@ -1,4 +1,4 @@
-# CSDS312_Group_3_Project
+# CSDS312 Group 3 Project
 Text Summarization Project for creating summary reports of news articles using MT5 Model and GPU Acceleration.
 
 The three .ipynb files were used to generate multiple outputs to evaluate the performance of the model in different ways.
